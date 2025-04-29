@@ -1,16 +1,24 @@
 # Heart-Disease-Classification
-predicting from patient's medical records if a patient has heart disease or not
-Predicting heart disease using machine learning
+predicting from patient's medical records if a patient has heart disease or not.
+
+Predicting heart disease using machine learning.
+
 this notebook looks unto various python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
 we are going to take the foolowing approach:
 
 problem definition
+
 data
+
 evaluation
+
 features
+
 modelling
+
 experimentation
+
 1. problem Definition
 in a statement,
 
